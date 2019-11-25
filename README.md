@@ -1,8 +1,8 @@
 # BFS
 
 Usage:
-  - Compile it (g++ hide_seek.cpp -o hide_seek)
-  - Run it (./hide_seek.exe)
+  - Compile (g++ hide_seek.cpp -o hide_seek)
+  - Run (./hide_seek.exe)
   
-For a better understandig of the project and the algorithm read the **BFS.docx** file.
+For a better understandig of the project and the algorithm check out the **BFS.pdf** file.
   
